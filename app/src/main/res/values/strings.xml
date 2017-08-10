@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Christmas Movie Quiz App</string>
+    <!--Enter Your Name Field-->
+    <string name="enter_your_name">Enter Your Name</string>
+
+    <!--Question 1-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1">What is the name of Rudolph\'s dad?</string>
+
+    <!--Answers to the question 1-->
+    <string name="ques_1_answer_a">Vixon</string>
+    <string name="ques_1_answer_b">Dixon</string>
+    <string name="ques_1_answer_c">Dasher</string>
+    <string name="ques_1_answer_d">Donner</string>
+
+    <!--Question 2-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">Who wrote "The Nightmare Before Christmas"?</string>
+
+    <!--Answers to the question 2-->
+    <string name="ques_2_answer_a">Alfred Hitchcock</string>
+    <string name="ques_2_answer_b">Martin Scorsene</string>
+    <string name="ques_2_answer_c">Steven Speiberg</string>
+    <string name="ques_2_answer_d">Tim Burton</string>
+
+    <!--Question 3-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">The rabbit in  the magic hat in "Frosty the Snowman" is named</string>
+
+    <!--Answers to the question 3-->
+    <string name="ques_3_answer_a">Scut Farkus</string>
+    <string name="ques_3_answer_b">Little Grinch</string>
+    <string name="ques_3_answer_c">Hocus Pocus</string>
+    <string name="ques_3_answer_d">Rabbit Claus</string>
+
+    <!--Question 4-->
+    <string name="question_4">What isthe guardian angel of George Bailey named in "It'sa Wonderful Life"?</string>
+    <string name="num_question_4">Question 4</string>
+
+    <!--Answers to the question 4-->
+    <string name="ques_4_answer_a">Mike</string>
+    <string name="ques_4_answer_b">Clarence</string>
+    <string name="ques_4_answer_c">Robert</string>
+    <string name="ques_4_answer_d">Jim</string>
+
+    <!--Question 5-->
+    <string name="num_question_5">Question 5</string>
+    <string name="question_5">What did Ralphie want for Christmas in "A Christmas Story"?</string>
+
+    <!--Answers to the question 5-->
+    <string name="ques_5_answer_a">A Remote Controlled Car</string>
+    <string name="ques_5_answer_b">A BB Gun</string>
+    <string name="ques_5_answer_c">A Bow and Arrow</string>
+    <string name="ques_5_answer_d">A Playstation</string>
+
+    <!--Question 6-->
+    <string name="num_question_6">Question 6</string>
+    <string name="question_6">What is the Scrooge\'s first name?</string>
+
+    <!--Answers to the question 6-->
+    <string name="ques_6_answer_a">Maxwell</string>
+    <string name="ques_6_answer_b">Bruce</string>
+    <string name="ques_6_answer_c">Martin</string>
+    <string name="ques_6_answer_d">Ebenezer</string>
+
+    <!--Question 7-->
+    <string name="num_question_7">Question 7</string>
+    <string name="question_7">Why was the Grinch so nasty? Because he had a</string>
+
+    <!--Answers to the question 7-->
+    <string name="ques_7_answer_a">Small Heart</string>
+    <string name="ques_7_answer_b">Small Brain</string>
+    <string name="ques_7_answer_c">Broken Leg</string>
+    <string name="ques_7_answer_d">Crooked Knee</string>
+
+    <!--Question 8 answers Options-->
+    <string name="num_question_8">Question 8</string>
+    <string name="question_8">What city did "Miracle on 34th Street" take place in?</string>
+
+    <!--Question 8 answers Options-->
+    <string name="ques_8_answer_a">New Jersey</string>
+    <string name="ques_8_answer_b">New Orleans</string>
+    <string name="ques_8_answer_c">New York</string>
+    <string name="ques_8_answer_d">Boston</string>
+
+    <!--Question 9 answers Options-->
+    <string name="num_question_9">Question 9</string>
+    <string name="question_9">What did Clarence get for accomplishing his mission in "It's a Wonderful Life"?
+</string>
+
+    <!--Question 9 answers Options-->
+    <string name="ques_9_answer_a">A Trumpet</string>
+    <string name="ques_9_answer_b">Wings</string>
+    <string name="ques_9_answer_c">A Halo</string>
+    <string name="ques_9_answer_d">A Crown</string>
+
+    <!--Question 10 answers Options-->
+    <string name="num_question_10">Question 10</string>
+    <string name="question_10">Two men broke into a house and had a LOT of trouble in which movie?</string>
+
+    <!--Question 10 answers Options-->
+    <string name="ques_10_answer_a">The Break In</string>
+    <string name="ques_10_answer_b">Christmas Trouble</string>
+    <string name="ques_10_answer_c">Home Alone</string>
+    <string name="ques_10_answer_d">Two Men in a Santa Suit</string>
+
+    <!--Button "End Test"-->
+    <string name="end_test">End test</string>
+
+    <!--Test Result-->
+    <string name="test_result_name">"Name: "</string>
+    <string name="test_result_score">Test Result</string>
+</resources>
